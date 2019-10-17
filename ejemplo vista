@@ -1,0 +1,8 @@
+User sessions
+     |--- folder1
+     |       |--- host10: url10.roche.com       |
+     |       |--- host11: url11.roche.com
+     |--- folder2
+	 |	     |--- folder21
+	 |	     |       |--- host210: url210.roche.com
+	 |	     |--- host20: url20.roche.com

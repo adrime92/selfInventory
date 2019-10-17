@@ -1,0 +1,63 @@
+{"folder": [
+  {
+    "name": "User sessions",
+    "id": "f0",
+    "parent": "",
+    "child": [
+      {
+        "name": "folder1",
+        "id": "f1",
+        "parent": "0",
+        "child": [
+          {
+            "name": "host10",
+            "id": "h0",
+            "url": "url10.emea.com"
+          },
+          {
+            "name": "host11",
+            "id": "h1",
+            "url": "url11.emea.com"
+          }
+        ]
+      },
+      {
+        "name": "folder2",
+        "id": "f2",
+        "parent": "0",
+        "child": [
+          {
+            "name": "folder21",
+            "id": "f3",
+            "parent": "f2",
+            "child": [
+            {
+              "name": "host210",
+              "id": "h2",
+              "url": "url210.emea.com"
+            },
+            {
+              "name": "host211",
+              "id": "h3",
+              "url": "url211.emea.com"
+            },
+            {
+              "name": "folder22",
+              "id": "f3",
+              "parent": "f2",
+              "child": [
+              ]
+            }
+            ]
+          },
+          {
+            "name": "host20",
+            "id": "h4",
+            "url": "url20.emea.com"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
